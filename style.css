@@ -62,7 +62,7 @@ a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    flex: 1;
+    flex-wrap: wrap;
 }
 .text-3{
     font-size: 36px;
@@ -73,7 +73,6 @@ a{
 .mid-img{
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
 }
 .quote{
     display: flex;
