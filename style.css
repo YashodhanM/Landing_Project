@@ -1,9 +1,8 @@
-.body{
+body{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     margin: 0;
-    padding: 0;
 }
 .header{
     display: flex;
@@ -29,15 +28,7 @@
     font-weight: bold;
     color: #e5e7eb;
 }
-/* p{
-    color: #e5e7eb;
-    font-size: 24px;
-    font-weight: bold;
-    margin-left: 50px;
-} */
-/* .right-links{
-    display: inline-block;
-} */
+
 ul{
     display: flex;
     list-style-type: none;
